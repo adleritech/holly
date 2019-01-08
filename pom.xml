@@ -5,7 +5,7 @@
     <groupId>com.adleritech</groupId>
     <artifactId>holly</artifactId>
     <packaging>pom</packaging>
-    <version>0.0.2</version>
+    <version>0.0.3-SNAPSHOT</version>
     <modules>
         <module>api</module>
     </modules>
@@ -18,7 +18,7 @@
         <connection>scm:git:git@github.com:adleritech/holly.git</connection>
         <developerConnection>scm:git:git@github.com:adleritech/holly.git</developerConnection>
         <url>scm:git:git@github.com:adleritech/holly.git</url>
-        <tag>holly-0.0.2</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <developers>
